@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Movie
+comment1.params=title\ year\ genre\ price
+comment1.target=Movie(java.lang.String,\ int,\ Genre,\ int)
+comment2.params=title
+comment2.target=boolean\ hasTitle(java.lang.String)
+comment3.params=year
+comment3.target=boolean\ hasYear(int)
+comment4.params=name
+comment4.target=boolean\ hasGenre(java.lang.String)
+comment5.params=
+comment5.target=int\ getPrice()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
